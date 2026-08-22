@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Maysa 
 
-I am a data technician who is starting their journey to become a data analyst. Currently training in a level 3 data bootcamp to develop my skills and knowledge.  
+I am a data technician who is starting their journey to become a data analyst. Recently completed a level 3 data bootcamp and eager to further develop analytical skills and knowledge.  
 
 🌍  I'm based in London 
 
